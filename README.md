@@ -1,5 +1,5 @@
 ### Hi I'm Shivangi Joshi👋               
-<p>I'm a final year student right now, pursuing my engineering in computer science.:smirk: <em><img src="Github-Image.jpg" width="250" height="350" align='right'></em></br>
+<p>I'm a final year student right now, pursuing my engineering in computer science.:smirk: <em><img src="captured.gif" width="200" height="400" align='right'></em></br>
 I'm trying various things this readme profile being one of them still learning how to make it more attractive :satisfied:</br>
 I love to solve chess puzzles and yep I live in my own world of BOOKS, SONGS & MUSIC and CODING :wink:  </br>
 I'm a great fan of Sherlock Holmes and of course I'm a Potterhead :sunglasses: !!!</p>                                         

@@ -12,6 +12,6 @@ ________________________________________________________________________________
 
 <a href="https://www.linkedin.com/in/shivangi-joshi-30b879165/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>  <a href="https://medium.com/@shivangijoshi16399"> <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>  <a href="https://shivangi-joshi.medium.com"> <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>
   </a> &nbsp;&nbsp;
  <p>Have Peace and ....<img src="for-github.gif"  align='center'></p>

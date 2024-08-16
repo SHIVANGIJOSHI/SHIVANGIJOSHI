@@ -1,17 +1,22 @@
-### Hi I'm Shivangi Joshi👋               
-<p>I'm a final year student right now, pursuing my engineering in computer science.:smirk: <em><img src="captured.gif" width="200" height="400" align='right'></em></br>
-I'm trying various things this readme profile being one of them still learning how to make it more attractive :satisfied:</br>
-I love to solve chess puzzles and yep I live in my own world of BOOKS, SONGS & MUSIC and CODING :wink:  </br>
-I'm a great fan of Sherlock Holmes and of course I'm a Potterhead :sunglasses: !!!</p>                                         
+### Hi, I'm Shivangi Joshi 👋
 
-____________________________________________________________________________________________________________________________________________
- 
-**Virtual Abode :**  :stuck_out_tongue_winking_eye:   [shivangijoshi.github.io ][bar]  
+I'm a Senior Software Developer Engineer with a passion for building efficient and scalable software systems. Over the past few years, I’ve delved deep into the world of microservices, optimized APIs, and tackled complex technical challenges across different domains. My journey in tech has been all about exploring new possibilities and pushing the boundaries of what can be achieved with code. Oh, and I still find joy in solving chess puzzles, diving into books, and losing myself in music. 🧩📚🎶
 
-[bar]: shivangijoshi.github.io       
+When I’m not busy coding or refining my skills, you’ll find me reading Sherlock Holmes or revisiting the magical world of Harry Potter. Yes, I’m a proud Potterhead and a fan of good ol' Sherlock Holmes! 🕵️‍♂️🧙‍♂️
+
+---
+
+**Virtual Abode:** 😜 [shivangijoshi.github.io][bar]
+
+[bar]: shivangijoshi.github.io
 
 <a href="https://www.linkedin.com/in/shivangi-joshi-30b879165/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>  <a href="https://shivangi-joshi.medium.com"> <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>  
+  <a href="https://shivangi-joshi.medium.com"> 
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>
   </a> &nbsp;&nbsp;
- <p>Have Peace and ....<img src="for-github.gif"  align='center'></p>
+
+<p>Keep exploring, stay curious, and let's make great things happen together! 🚀✨</p>
+
+---
